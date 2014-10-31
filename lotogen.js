@@ -19,9 +19,10 @@ function getInRange(min, max) {
 }
 
 
-
-
+document.write('<br/>');
+document.write("Your lucky numbers are: ");
 document.write(loto(6, 1, 49));
+document.write('<br/>');
 
 
 
